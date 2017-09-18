@@ -1,25 +1,25 @@
-#Venatici
+# Venatici
 
-##I. High Concept
+## I. High Concept
 
    Gather Stardust and avoid enemy fire in this celestial bullet hell.
 
-##II. Genre
+## II. Genre
    
-   _Gameplay Genre_ - Bullet Hell
+   _ Gameplay Genre _ - Bullet Hell
    
-##III. Platform
+## III. Platform
   
-  Browser
+   Browser
   
-##IV. Story
+## IV. Story
 
-   Each level represents a start in the constalltion map, players will progress through the level and gather Stardust to empower that star.
+    Each level represents a start in the constalltion map, players will progress through the level and gather Stardust to empower that star.
    
-##V. Esthetics
+## V. Esthetics
   
-  +_Graphics Style_ - Cartoonish/Silhouette
-  +_Sound_ - Ambient
+  + _ Graphics Style _ - Cartoonish/Silhouette
+  + _ Sound _ - Ambient
   
   SFX on: 
     +player bullet fired
