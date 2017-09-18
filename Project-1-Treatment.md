@@ -14,7 +14,8 @@
   
 ## IV. Story
 
-    Each level represents a start in the constalltion map, players will progress through the level and gather Stardust to empower that star.
+    Each level represents a start in the constalltion map, 
+    players will progress through the level and gather Stardust to empower that star.
    
 ## V. Esthetics
   
