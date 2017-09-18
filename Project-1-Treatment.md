@@ -6,7 +6,7 @@
 
 ## II. Genre
    
-   _ Gameplay Genre _ - Bullet Hell
+    Gameplay Genre - Bullet Hell
    
 ## III. Platform
   
@@ -22,19 +22,19 @@
   + _ Sound _ - Ambient
   
   SFX on: 
-    +player bullet fired
-    +player bullet contact
-    +enemy bullet contact
-    +stardust gauge max
+    + player bullet fired
+    + player bullet contact
+    + enemy bullet contact
+    + stardust gauge max
     
   Music:
-    +level
-    +map
-    +menu
+    + level
+    + map
+    + menu
     
- ##VI. Gameplay
+ ## VI. Gameplay
   
-    ###Mechanics
+   ### Mechanics
        
-    ###Control
+   ### Control
        Keyboard
