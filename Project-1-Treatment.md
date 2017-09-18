@@ -18,19 +18,19 @@
    
 ## V. Esthetics
   
-  + _ Graphics Style _ - Cartoonish/Silhouette
-  + _ Sound _ - Ambient
+  + Graphics Style - Cartoonish/Silhouette
+  + Sound - Ambient
   
   SFX on: 
-    + player bullet fired
-    + player bullet contact
-    + enemy bullet contact
-    + stardust gauge max
+  + player bullet fired
+  + player bullet contact
+  + enemy bullet contact
+  + stardust gauge max
     
   Music:
-    + level
-    + map
-    + menu
+  + level
+  + map
+  + menu
     
  ## VI. Gameplay
   
