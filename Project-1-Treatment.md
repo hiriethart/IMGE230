@@ -14,8 +14,8 @@
   
 ## IV. Story
 
-    Each level represents a start in the constalltion map, 
-    players will progress through the level and gather Stardust to empower that star.
+    Each level represents a star in the constalltion map. 
+    Players will progress through the level and gather Stardust to empower that star.
    
 ## V. Esthetics
   
@@ -36,6 +36,6 @@
  ## VI. Gameplay
   
    ### Mechanics
-       
+       Standard bullet hell mechanics 
    ### Control
        Keyboard
