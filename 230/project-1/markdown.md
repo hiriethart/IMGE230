@@ -1,7 +1,6 @@
 V E N A T I C I 
 
 _Hunting dogs in endless pursuit of Ursa Major_
-_Loyalty & Volition_
 
 ## I. High Concept
 Gather Stardust and avoid enemy fire in this celestial bullet hell
